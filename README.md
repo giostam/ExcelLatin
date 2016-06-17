@@ -3,8 +3,7 @@ Transliterate excel (xlsx) columns from Greek to Latin and vice versa
 
 usage: java -jar ExcelLatin.jar [options] filenameIn filenameOut columnNames...
 
-options:
----
+####options:
 -L to Latin
 
 -G to Greek
